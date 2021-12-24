@@ -15,7 +15,7 @@ const Header = () => {
                     <button type="button">Get Started</button>
                 </div>
                 <div className="web3__header-content__people">
-                    <img src={people} />
+                    <img src={people} alt="people" />
                     <p>1,600 people requested access a visit in last 24 hours
                     </p>
                 </div>
